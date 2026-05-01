@@ -16,18 +16,18 @@ The final score is calculated using a weighted rubric across seven engineering d
 
 | Category | Max Score |
 |----------|----------:|
-| Requirement Understanding | 1500 |
-| Architecture Quality | 2500 |
-| Data Model Design | 1500 |
-| API Design Quality | 1500 |
-| Scalability & Reliability | 1500 |
+| Requirement Understanding | 1400 |
+| Architecture Quality | 2400 |
+| Data Model Design | 1400 |
+| API Design Quality | 1400 |
+| Scalability & Reliability | 1400 |
 | Tradeoff Reasoning | 1000 |
 | Clarity & Structure | 1000 |
 | **TOTAL** | **10000** |
 
 ---
 
-# 1. Requirement Understanding (1500)
+# 1. Requirement Understanding (1400)
 
 ## Purpose
 
@@ -62,11 +62,11 @@ Measures whether the agent correctly interprets the user's business idea and ide
 | Misses major requirements | 0–500 |
 | Partial understanding | 501–1000 |
 | Strong interpretation | 1001–1300 |
-| Complete business understanding | 1301–1500 |
+| Complete business understanding | 1301–1400 |
 
 ---
 
-# 2. Architecture Quality (2500)
+# 2. Architecture Quality (2400)
 
 ## Purpose
 
@@ -96,11 +96,11 @@ Measures the technical quality of the proposed software architecture.
 | Weak / generic design | 0–900 |
 | Acceptable architecture | 901–1700 |
 | Strong production-ready design | 1701–2200 |
-| Excellent architecture with rationale | 2201–2500 |
+| Excellent architecture with rationale | 2201–2400 |
 
 ---
 
-# 3. Data Model Design (1500)
+# 3. Data Model Design (1400)
 
 ## Purpose
 
@@ -129,11 +129,11 @@ Measures database schema quality and domain modeling.
 | Poor schema | 0–500 |
 | Basic schema | 501–1000 |
 | Strong relational model | 1001–1300 |
-| Excellent domain model | 1301–1500 |
+| Excellent domain model | 1301–1400 |
 
 ---
 
-# 4. API Design Quality (1500)
+# 4. API Design Quality (1400)
 
 ## Purpose
 
@@ -161,11 +161,11 @@ Measures how well the system interfaces are defined.
 | Weak APIs | 0–500 |
 | Basic APIs | 501–1000 |
 | Strong API contract design | 1001–1300 |
-| Excellent production APIs | 1301–1500 |
+| Excellent production APIs | 1301–1400 |
 
 ---
 
-# 5. Scalability & Reliability (1500)
+# 5. Scalability & Reliability (1400)
 
 ## Purpose
 
@@ -196,7 +196,7 @@ Measures whether the architecture can grow under real production load.
 | No scalability thinking | 0–500 |
 | Basic scaling notes | 501–1000 |
 | Strong production scaling | 1001–1300 |
-| Excellent resilience strategy | 1301–1500 |
+| Excellent resilience strategy | 1301–1400 |
 
 ---
 
