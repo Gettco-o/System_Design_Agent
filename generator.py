@@ -10,6 +10,7 @@ def generate(idea: str):
 
     response = client.chat.completions.create(
         model=Config.GROQ_MODEL,
+        temperature=Config.GROQ_TEMPERATURE,
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt}
